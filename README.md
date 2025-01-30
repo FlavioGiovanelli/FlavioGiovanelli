@@ -19,11 +19,12 @@ Desenvolvedor BackEnd
   Cursando Sistema de informação-UNINOVE
 
 
-  ## Educação
+## Educação
   Cursando Sistema de informação-UNINOVE
 
 
-    ## Contato
+    
+## Contato
   E-mail:flaviogiovanelli.contato@gmail.com
   Discord:flavin2590
 
