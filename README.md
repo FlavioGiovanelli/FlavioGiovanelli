@@ -3,7 +3,6 @@ Desenvolvedor BackEnd
 
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviogiovanelli123/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/pt/profile/31507044)
 
 ![FlavioGiovanelli GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGiovanelli&show_icons=true&theme=radical)
 
