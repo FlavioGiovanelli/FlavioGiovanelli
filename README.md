@@ -6,6 +6,8 @@ Desenvolvedor BackEnd
 
 ![FlavioGiovanelli GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGiovanelli&show_icons=true&theme=radical)
 
+![FlavioGiovanelli Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGiovanelli&theme=blue-green)
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
@@ -16,11 +18,14 @@ Desenvolvedor BackEnd
 
   Cursando Sistema de informação-UNINOVE
 
-  ## Contato
-  E-mail:flaviogiovanelli.contato@gmail.com
 
   ## Educação
-  
-  
+  Cursando Sistema de informação-UNINOVE
+
+
+    ## Contato
+  E-mail:flaviogiovanelli.contato@gmail.com
   Discord:flavin2590
+
   
+ 
