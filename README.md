@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FlavioGiovanelli/FlavioGiovanelli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FlavioGiovanelli/output/snake.svg" alt="Snake animation" />
 
 ###
 
