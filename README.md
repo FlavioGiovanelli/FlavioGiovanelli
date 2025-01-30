@@ -4,7 +4,8 @@ Desenvolvedor BackEnd
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviogiovanelli123/)
 
-![FlavioGiovanelli GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGiovanelli&show_icons=true&theme=radical)
+ 
+![FlavioGiovanelli GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGiovanelli&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGiovanelli&theme=blue-green)
 
 ![FlavioGiovanelli Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGiovanelli&theme=blue-green)
 
@@ -15,12 +16,15 @@ Desenvolvedor BackEnd
   <img aling="center" alt="python" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img aling="center" alt="Python" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img aling="center" alt="Python" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-
+  
   </div><br>
 
 ## Educação
   Cursando Sistema de informação-UNINOVE
-   
+
+## Certificações
+
+
 ## Contato
   E-mail:flaviogiovanelli.contato@gmail.com
   Discord:flavin2590
